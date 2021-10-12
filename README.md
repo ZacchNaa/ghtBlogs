@@ -1,4 +1,4 @@
-# fireblogs
+# ghtblogs
 
 ## Project setup
 ```
